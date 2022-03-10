@@ -1,0 +1,9 @@
+{
+  "name": "@acme/first",
+  "license": "ISC",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -b tsconfig.build.json"
+  }
+}
